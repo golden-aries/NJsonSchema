@@ -24,7 +24,10 @@
     <None Update="Schemas\draft-04.schema.jsonc">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Schemas\draft-07_schema.jsonc">
+    <None Update="Schemas\draft-07.schema.jsonc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Schemas\empty_draft-07.schema.jsonc">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Update="Schemas\empty.schema.jsonc">
